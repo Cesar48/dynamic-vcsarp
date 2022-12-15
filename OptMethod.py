@@ -195,7 +195,7 @@ class OptMethod(object):
                          bbox=dict(boxstyle='round4,pad=0.1',
                                    fc='white',
                                    color='white',
-                                   alpha=50))
+                                   alpha=0.5))
 
     # 3 - Create nodes with text inside above each point
     def create_nodes(self):
